@@ -1,3 +1,5 @@
+"""functions_example.py - Example of defining and using functions in Python."""
+
 def greet(name):
     return f"Hello, {name}"
 

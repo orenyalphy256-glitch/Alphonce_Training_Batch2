@@ -1,3 +1,5 @@
+"""calculator.py - Sinole CLI calculator (addition, subtraction, multiplication, division)."""
+
 def add(a, b):
     return a + b
 
