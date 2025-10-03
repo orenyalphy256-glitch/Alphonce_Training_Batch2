@@ -1,9 +1,12 @@
+""" Bravo_day20_functions_practice.py - examples of defining and using functions"""
 # Bravo_day20_functions_practice.py
 
+# define functions
 def greet(name):
     """Return greeting for given name."""
     return f"Hello, {name}"
 
+# function to calculate average
 def average(nums):
     """Return average of list of numbers. Return None if empty."""
     if not nums:

@@ -1,6 +1,8 @@
+""" Bravo_day16_loops_enumerate.py - Demonstrate loops and enumerate function."""
 # Bravo_day16_loops_enumerate.py
 # Purpose: demonstrate loops and enumerate function.
 
+# List of items to iterate over
 items = ["alpha", "bravo", "charlie"]
 
 # simple loop

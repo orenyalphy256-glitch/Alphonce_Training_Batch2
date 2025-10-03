@@ -1,6 +1,8 @@
+"""Bravo_day15_lists_example.py - Demonstrate list operations in python."""
 # Bravo_day15_lists_example.py
 # Purpose: demonstrate list creation, indexing, append, insert, remove, and slicing.
 
+# Create a list of devices
 devices = ["router", "laptop", "phone", "tablet"]
 print("Initial list:", devices)
 
